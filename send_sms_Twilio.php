@@ -11,12 +11,12 @@ function send_sms($number, $body) {
 
 
 // Your Account SID and Auth Token from twilio.com/console
-$sid = 'AC55e8dd9e8d529411fe8ba32ea8e7261c';
-$token = 'c35d35d913a8afc6e6e65d8add3e28f1';
+$sid = 'SID';
+$token = 'TOKEN';
 $client = new Client($sid, $token);
 
 //my number
-$twnumber = "+12015002471";
+$twnumber = "+12012345678";
 
 // Use the client to do fun stuff like send text messages!
 $message = $client->messages->create(
