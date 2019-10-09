@@ -1,5 +1,5 @@
 # PHPfuncitonsLIB
-
+In this repository you can find PHP function which I made for my personal use in different projects. I hope they will help you somehow ;) 
 
 # License
 No license! This functions is Open Source any completely free! You can even not mention my name, but you must remember - MaestroError:D
